@@ -134,7 +134,7 @@
   .sectionbg09 h4{font-size:16px;line-height:20px;font-weight:600;color:#fb6a19;text-align:left;margin-bottom:20px; text-align: center;}
   .sectionbg09 .col-sm-3 img{border:#15a66f 5px solid;border-radius:50%}
   .sectionbg09 p{font-size:16px;line-height:25px;font-weight:400;color:#000;text-align:justify;}
-  .sectionbg09 img{width: 100%;}
+  .sectionbg09 img{width:100px; height: 100px; object-fit: cover; border-radius: 50%;} 
   .bodthumb{background: #FFF;margin: 25px; min-height:480px; color: #333; border: solid 1px #e2e2e2; border-bottom: solid 10px #e2e2e2;}  
    
   .sectionbg10{background:#e2e2e2;padding-top:30px;padding-bottom:50px;color:#fff}
@@ -149,7 +149,7 @@
   .intro h3{font-size:18px;font-weight:800;color:#333; margin: 0;}
   .intro h4{font-size:16px;font-weight:600;color:#333}
   .intro p{font-size:16px;line-height:26px;font-weight:400;color:#333;text-align:justify}
-  .intro h5{font-size:24px;line-height:24px;font-weight:800;color:#fb6a19}
+  .intro h5{font-size:20px;line-height:24px;font-weight:800;color:#fb6a19}
   .intro h6{font-size:16px;line-height:16px;font-weight:600;color:#333}
   .intro .duration{margin-bottom: 30px;}
 
